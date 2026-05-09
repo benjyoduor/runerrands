@@ -149,11 +149,11 @@ fun PostErrandScreen(
                 OutlinedTextField(
                     value = budget,
                     onValueChange = { budget = it },
-                    label = { Text("Budget ($)") },
+                    label = { Text("Budget (KSh)") },
                     modifier = Modifier.weight(1f),
                     keyboardOptions = KeyboardOptions(keyboardType = KeyboardType.Decimal),
                     shape = RoundedCornerShape(12.dp),
-                    prefix = { Text("$ ") }
+                    prefix = { Text("KSh ") }
                 )
                 
                 OutlinedTextField(

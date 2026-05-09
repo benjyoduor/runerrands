@@ -130,7 +130,7 @@ fun ImprovedErrandItem(errand: Errand, onClick: () -> Unit) {
                     shape = RoundedCornerShape(12.dp)
                 ) {
                     Text(
-                        text = "$${errand.budget}",
+                        text = "KSh ${errand.budget}",
                         modifier = Modifier.padding(horizontal = 12.dp, vertical = 6.dp),
                         style = MaterialTheme.typography.titleMedium,
                         fontWeight = FontWeight.Black,

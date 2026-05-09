@@ -213,7 +213,7 @@ fun ErrandDetailsScreen(
                                     Column(modifier = Modifier.weight(1f)) {
                                         Text("REWARD", style = MaterialTheme.typography.labelSmall, color = MaterialTheme.colorScheme.outline)
                                         Text(
-                                            "$${errand.budget}",
+                                            "KSh ${errand.budget}",
                                             style = MaterialTheme.typography.headlineSmall,
                                             fontWeight = FontWeight.Black,
                                             color = MaterialTheme.colorScheme.primary
