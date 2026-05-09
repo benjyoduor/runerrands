@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "835290224594",
+    "firebase_url": "https://errands-1beca-default-rtdb.firebaseio.com",
+    "project_id": "errands-1beca",
+    "storage_bucket": "errands-1beca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835290224594:android:89211be0fe82ba3b2d9a0b",
+        "android_client_info": {
+          "package_name": "project.o1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835290224594-lbqc3jrlnjurqfm8dh875umh4b028bub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1zG-OxL-nij1LYMdCl6DLzXzZXQ3-sXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835290224594-lbqc3jrlnjurqfm8dh875umh4b028bub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
